@@ -1,6 +1,10 @@
-# Hoja de ruta
+# Roadmap — El Orejano
 
-- [x] Elegir una dirección visual clara en tonos tierra.
-- [x] Generar una serie nueva y coherente de imágenes de productos.
-- [ ] Actualizar los enlaces con los destinos correctos.
-- [x] Mantener el rubro exactamente como “Carteras” en el nuevo diseño.
+## Tareas
+- [x] Aclarar la tabla de talles (quedó muy oscura)
+- [x] Sacar la marca de agua / sello "Daniel Giordano · maqueta"
+- [x] Restaurar la foto de portada original del sitio inicial
+- [ ] Historia del local y de la empresa para "Quiénes somos" — espera datos del usuario
+- [ ] Reseñas reales de Google — espera datos del usuario
+- [ ] Enlaces nuevos (destinos) — espera respuesta del usuario
+- [x] Novedades: tarjetas que llevan a https://www.instagram.com/el.orejano/
