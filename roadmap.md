@@ -7,3 +7,4 @@
 - [ ] Historia del local y de la empresa para "Quiénes somos" — espera datos del usuario
 - [ ] Reseñas reales de Google — espera datos del usuario
 - [ ] Enlaces nuevos (destinos) — espera respuesta del usuario
+- [ ] Novedades: tarjetas que llevan a https://www.instagram.com/el.orejano/ — EN CURSO
