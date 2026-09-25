@@ -11,3 +11,5 @@
 - [x] Mejorar el contraste de los botones de la portada
 - [x] Agregar “Botas, zapatillas y sandalias” y “Alpargatas” en Rubros
 - [x] Hero: imagen cortada a la derecha (desktop y mobile) — max-width:none en las 4 fotos
+- [x] Verificar WhatsApp: todos los links apuntan al número del local +54 9 11 6553-9645
+- [x] Optimizar versión mobile: evitar trabas al scrollear — reportado por la usuaria

@@ -4,6 +4,27 @@ import { createFileRoute } from "@tanstack/react-router";
 // HTML document (with its own title, meta, images and fonts) returned by the
 // server handler for GET "/".
 export const Route = createFileRoute("/")({
+  head: () => ({
+    meta: [
+      {
+        title:
+          "El Orejano — Galería Güemes | Marroquinería y cuero argentino",
+      },
+      {
+        name: "description",
+        content:
+          "El Orejano ofrece marroquinería, calzado, prendas y accesorios de cuero en Galería Güemes, Buenos Aires.",
+      },
+      { property: "og:title", content: "El Orejano — Galería Güemes" },
+      {
+        property: "og:description",
+        content:
+          "Marroquinería, calzado, prendas y accesorios de cuero argentino en pleno centro de Buenos Aires.",
+      },
+      { property: "og:type", content: "website" },
+      { name: "twitter:card", content: "summary_large_image" },
+    ],
+  }),
   server: {
     handlers: {
       GET: async () => {
