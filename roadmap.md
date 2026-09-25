@@ -11,3 +11,4 @@
 - [x] Mejorar el contraste de los botones de la portada
 - [x] Agregar “Botas, zapatillas y sandalias” y “Alpargatas” en Rubros
 - [x] Hero: imagen cortada a la derecha (desktop y mobile) — max-width:none en las 4 fotos
+- [ ] Optimizar versión mobile: evitar trabas al scrollear — reportado por la usuaria
